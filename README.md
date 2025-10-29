@@ -450,6 +450,16 @@ https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID/edit
 
 ---
 
+## Автор
+
+**Розробник:** Сергій Щербаков
+
+**Email:** sergiyscherbakov@ukr.net
+
+**Telegram:** @s_help_2010
+
+---
+
 ## Ліцензія
 
 Цей проект доступний для вільного використання та модифікації.
